@@ -1,1 +1,1 @@
-# config-repo
+# springcloud-config
